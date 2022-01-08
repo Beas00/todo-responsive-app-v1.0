@@ -2,17 +2,23 @@
 
 ToDo list is a simple web application to save Your daily tasks in order not to miss anything.
 
+## Futures
+Edit task
+Delete single task
+
 ## Authors
 - [@SzymonŁącz](https://www.github.com/Beas00)
 
 
 ## Appendix
-
-Any additional information 
-App still need solve some issues
-work in progress.
-Resposive solve soon.
-
+ Plan to implements:
+ * Responsive
+ * Pick a date from callendar
+ * Add new task
+ * Mark task as completed / uncompleted
+ * Set task priority
+ * Delete completed tasks
+ * Delete all tasks
 
 
 ## 🛠 Skills
